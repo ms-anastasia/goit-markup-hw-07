@@ -25,8 +25,7 @@
         "../sass/components/_footer-join.scss",
         "../sass/components/_portfolio-header.scss",
         "../sass/components/_portfolio-selection.scss",
-        "../sass/components/_portfolio.scss",
-        "../sass/components/test.scss"
+        "../sass/components/_portfolio.scss"
     ],
     "names": [],
     "file": "main.css"
